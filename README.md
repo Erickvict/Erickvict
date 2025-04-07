@@ -67,5 +67,5 @@
 </div>
 
 ---
-### Snake catching my github contributions: 
+### 🐍 Snake catching my github contributions: 
 ![snake gif](https://github.com/Erickvict/Erickvict/blob/output/github-snake.svg)
