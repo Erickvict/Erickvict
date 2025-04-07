@@ -31,3 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erickvict&show_icons=true&locale=en&layout=compact" alt="erickvict" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erickvict&show_icons=true&locale=en" alt="erickvict" /></p>
+
+![snake gif](https://github.com/Erickvict/Erickvict/blob/output/github-snake-dark.svg)
