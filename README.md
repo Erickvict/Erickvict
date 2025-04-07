@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Erick V</h1>
+<h1 align="center">Hi there👋, I'm Erick V</h1>
 <h3 align="center">SOFTWARE DEVELOPER</h3>
 <h3 align="center">Driven by a passion for mastering JavaScript and advancing in web development.</h3>
 
