@@ -2,23 +2,19 @@
 <h3 align="center">SOFTWARE DEVELOPER</h3>
 <h3 align="center">Driven by a passion for mastering JavaScript and advancing in web development.</h3>
 
-<!-- Responsive two-column layout (desktop), stacked on mobile -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; max-width: 900px; margin: auto;">
-  <!-- Left Column -->
-  <div style="min-width: 280px; max-width: 400px; padding: 10px;">
-    <ul>
-      <li>🌱 I’m currently learning <strong>Frameworks</strong></li>
-      <li>👯 I’m looking to collaborate on <strong>Web Development, AI</strong></li>
-      <li>💬 Ask me about <strong>Javascript, React.js, MySQL</strong></li>
-      <li>📫 Reach me at: <a href="mailto:appuerick4@gmail.com"><strong>appuerick4@gmail.com</strong></a></li>
-      <li>⚡ Fun fact: <strong>I'm learning German Language</strong></li>
-    </ul>
-  </div>
+<!-- Responsive layout using divs -->
+<div align="center">
+  <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="300" height="250" alt="coding-gif"/>
+</div>
 
-  <!-- Right Column -->
-  <div style="padding: 10px;">
-    <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="300" height="250" alt="coding-gif"/>
-  </div>
+<div align="left">
+  <ul>
+    <li>🌱 I’m currently learning <strong>Frameworks</strong></li>
+    <li>👯 I’m looking to collaborate on <strong>Web Development, AI</strong></li>
+    <li>💬 Ask me about <strong>Javascript, React.js, MySQL</strong></li>
+    <li>📫 Reach me at: <a href="mailto:appuerick4@gmail.com"><strong>appuerick4@gmail.com</strong></a></li>
+    <li>⚡ Fun fact: <strong>I'm learning German Language</strong></li>
+  </ul>
 </div>
 
 ---
